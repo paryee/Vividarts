@@ -21,7 +21,7 @@ Goals:
 This is a hand-on cloud engineering project delivered by the Azubi Africa Group 4 team in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
 The team members were:
  1. Emmanuel Akolbire [Linkedin](https://www.linkedin.com/in/emmanuel-akolbire)
- 2. Prince Adama Aryee
+ 2. Prince Adama Aryee [Linkedin](https://www.linkedin.com/in/prince-adama-aryee)
  3. Joseph Nsiah
  4. Jerono  Bargotio
  5. Ogbomo Festus
@@ -45,7 +45,7 @@ The application is a web page served by a Flask webserver running in a Kubernete
 The API served by an AWS API gateway which routes requests to AWS lambda functions which invoke transformer functions to process and save the image in an S3 bucket for retrieval
 
 ### The Architecture
-<a href="https://github.com/DeXtreme/Vividarts">
+<a href="https://github.com/Paryee/Vividarts">
     <img src="architecture.png" alt="Logo" width="auto" height="450">
 </a>
 
