@@ -46,7 +46,7 @@ The API served by an AWS API gateway which routes requests to AWS lambda functio
 
 ### The Architecture
 <a href="https://github.com/Paryee/Vividarts">
-    <img src="architecture.png" alt="Logo" width="auto" height="450">
+    <img src="Architecture.png" alt="Logo" width="auto" height="450">
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
